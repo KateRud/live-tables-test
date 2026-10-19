@@ -1,0 +1,11 @@
+Opportunity_ID,Customer,Industry,Country,Amount_USD,Close_Date,Stage
+1001,Acme Corp,Software,Spain,12500.5,2026-10-01,Closed Won
+1002,Blue Ocean,Finance,Germany,8900.0,2026-10-03,Negotiation
+1003,GreenTech,Energy,France,15400.75,2026-10-05,Proposal
+1004,Northstar,Retail,USA,6200.0,2026-10-07,Closed Won
+1005,CloudWorks,Technology,UK,22000.0,2026-10-09,Qualification
+1006,Sunrise Ltd,Healthcare,Spain,7800.25,2026-10-10,Closed Lost
+1007,DataBridge,Technology,Canada,18500.0,2026-10-11,Negotiation
+1008,Urban Market,Retail,Italy,5400.0,2026-10-12,Proposal
+1009,BrightFuture,Education,Netherlands,11300.5,2026-10-14,Closed Won
+1010,Apex Systems,Finance,USA,27500.0,2026-10-16,Qualification
